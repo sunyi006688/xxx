@@ -1,3 +1,8 @@
+## 注意事项
+1）5月8日晚，CloudFlare Workers 的业务域名 Workers.dev 被防火长城 DNS 污染。
+2）第`1）`点可以直接使用我的自选IP域名`uicdn.cf`，每30分钟更新一次。
+3）若还想直接连接CloudFlare Workers，可自定义workers域名，教程已更新至博客`ifts.ml`
+
 ## v2ray-heroku
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/DaoChen6/Heroku-v2ray.git)
 
