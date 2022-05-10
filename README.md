@@ -5,6 +5,8 @@
 
 3）接入点可以直接使用我的自选IP域名`uicdn.cf`，每30分钟更新一次。
 
+#### 交流群[https://t.me/iflugp](https://t.me/iflugp)
+
 ## v2ray-heroku
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/DaoChen6/Heroku-v2ray.git)
 
