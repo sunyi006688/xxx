@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "Heroku_v2ray",
+  "description": "DaoChen's Hero v2",
   "keywords": [
     "v2ray VMess VLESS"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "",
+  "repository": "",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
