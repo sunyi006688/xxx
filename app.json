@@ -1,8 +1,8 @@
 {
   "name": "Heroku_v2ray",
-  "description": "DaoChen's Hero v2",
+  "description": "DaoChen's v2",
   "keywords": [
-    "v2ray VMess VLESS"
+    ""
   ],
   "env": {
     "PROTOCOL": {
