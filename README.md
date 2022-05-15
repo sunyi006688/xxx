@@ -1,6 +1,6 @@
 ## 注意事项
 
-0）**最新** Cloudflare Page域名还没被SNI阻断，利用[此项目](https://github.com/xyTom/cf-page-func-proxy)可利用CF Pages反代。
+0）**最新** Cloudflare Page域名还没被SNI阻断，利用[此项目](https://github.com/xyTom/cf-page-func-proxy)可利用CF Pages反代。（无需自定义域名）
 
 1）5月8日晚，CloudFlare Workers 的业务域名 Workers.dev 被防火长城 DNS 污染、SNI阻断。
 
